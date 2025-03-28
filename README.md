@@ -50,7 +50,7 @@ With over **8 years of experience** in leadership roles as a Lead Solutions Arch
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Cloud Platforms & Infrastructure
-- **![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white):** VNET, VM, ALB, App Gateway, VPN Gateway, Firewall, App Service, Azure Functions, CosmosDB, SQL Database, SQL Managed Instance, Storage Account, Service Bus, Azure DB for PostgreSQL & MySQL, EventHub, EventGrid, Azure Monitor
+- ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white): VNET, VM, ALB, App Gateway, VPN Gateway, Firewall, App Service, Azure Functions, CosmosDB, SQL Database, SQL Managed Instance, Storage Account, Service Bus, Azure DB for PostgreSQL & MySQL, EventHub, EventGrid, Azure Monitor
 - **AWS:** VPC, EC2, ALB, NLB, S3, Amplify, CodePipeline, Beanstalk, AWS Lambda, AWS CDK, SQS, SNS, DynamoDB, ECS, EKS, ECR, Polly, Recognition, Lex, Cognito, Step Functions, CloudWatch, M365, Microsoft Intune
 - **GCP:** VPC, Compute Engine, HTTP(S) Load Balancing, TCP/UDP Load Balancing, Cloud VPN & Cloud Interconnect, Firewall & Cloud Router, App Engine, Cloud Functions, Cloud Run, Google Kubernetes Engine, Cloud Storage, Cloud SQL, Cloud Spanner, Firestore, Cloud Bigtable, Pub/Sub, Eventarc, Cloud Tasks, Cloud Build & Cloud Deploy, Cloud Source Repositories
 
