@@ -58,10 +58,6 @@ Empowers businesses with in-depth user profiling using GenAI, Python, and Flask,
 Revolutionizes candidate evaluation by parsing resumes with OpenAI and Langchain, enabling faster and more accurate talent identification.
 
 
-### 💻 CodeGenie: Code Interpreter & Generator
-**Streamlined Development:**  
-A cutting-edge tool using OpenAI, Pinecone, and Flask to interpret and generate code, simplifying complex coding tasks and boosting productivity.
-
 ---
 ### AI & Integration Technologies
 - **Agentic AI Frameworks:** Langchain, LangGraph, RAG, CAG
