@@ -86,8 +86,6 @@ A cutting-edge tool using OpenAI, Pinecone, and Flask to interpret and generate 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?logo=huggingface&logoColor=000)
 
-<!-- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) -->
-<!-- ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) -->
 ---
 ### Cloud Platforms & Infrastructure
 - **Azure:** VNET, VM, ALB, App Gateway, VPN Gateway, Firewall, App Service, Azure Functions, CosmosDB, SQL Database, SQL Managed Instance, Storage Account, Service Bus, Azure DB for PostgreSQL & MySQL, EventHub, EventGrid, Azure Monitor

@@ -41,13 +41,15 @@ I lead with a focus on collaboration, innovation, and continuous learning. My ap
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visual-studio&logoColor=white)
-
----
-
-### Cloud Platforms & Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+---
+### Cloud Platforms & Infrastructure
+- **Azure:** VNET, VM, ALB, App Gateway, VPN Gateway, Firewall, App Service, Azure Functions, CosmosDB, SQL Database, SQL Managed Instance, Storage Account, Service Bus, Azure DB for PostgreSQL & MySQL, EventHub, EventGrid, Azure Monitor
+- **AWS:** VPC, EC2, ALB, NLB, S3, Amplify, CodePipeline, Beanstalk, AWS Lambda, AWS CDK, SQS, SNS, DynamoDB, ECS, EKS, ECR, Polly, Recognition, Lex, Cognito, Step Functions, CloudWatch, M365, Microsoft Intune
+- **GCP:** VPC, Compute Engine, HTTP(S) Load Balancing, TCP/UDP Load Balancing, Cloud VPN & Cloud Interconnect, Firewall & Cloud Router, App Engine, Cloud Functions, Cloud Run, Google Kubernetes Engine, Cloud Storage, Cloud SQL, Cloud Spanner, Firestore, Cloud Bigtable, Pub/Sub, Eventarc, Cloud Tasks, Cloud Build & Cloud Deploy, Cloud Source Repositories
 
 ---
 
