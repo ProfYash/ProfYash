@@ -6,12 +6,11 @@ I'm a Solution Architect & Software Mentor at Swabhav TechLabs based in Mumbai. 
 ---
 
 ## 🚀 Areas of Expertise
-- Full-stack Java development
-- Core & Advanced Java, Spring & Spring Boot
-- Microservices architecture
-- Software mentoring and leadership
-- Delivering technology solutions across diverse industries
-
+- **Artificial Intelligence & Machine Learning:** Expertise in advanced AI models including neural networks (CNN, RNN, KNN, GANs), regression, classification, and time-series forecasting. I design and deploy AI systems that deliver actionable insights.
+- **Full-Stack Development:** Expert in both backend and frontend technologies.
+- **Software Architecture:** Designing robust, scalable solutions.
+- **Mentorship:** Dedicated to nurturing and growing future tech leaders.
+- **Collaboration & Innovation:** Driving innovative projects across diverse industries.
 ---
 
 ### Leadership & Innovation
@@ -25,13 +24,17 @@ I lead by example, guiding teams to harness cutting-edge technologies and foster
 - **Focus:** Driving innovation and excellence in software development and mentoring professionals to excel in their careers.
 
 ---
+## 🚀 Featured Projects
+- **AI-Powered Sales Forecasting for Strategic Insights:**
+Designed and implemented advanced time-series models (SARIMA, Prophet, LSTM, Holt-Winters) to improve sales forecasting accuracy. This data-driven approach has enhanced decision-making in inventory management, budgeting, and resource allocation.
 
+- **AI-Driven Lead Scoring & Qualification for Optimized Sales Conversion:**
+Spearheaded the development of an AI-based lead scoring system leveraging algorithms like logistic regression, random forest, gradient boosting, SVM, and neural networks. This initiative enhanced lead quality assessment and refined targeted marketing strategies.
+---
 ### Frameworks & Libraries
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
-[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)
-[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)](http://hibernate.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)[![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)[![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)[![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white)](https://spring.io/)[![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)](http://hibernate.org/)
+[![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)](https://reactjs.org/)[![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)](https://nextjs.org/)
 
 ---
 
